@@ -6,5 +6,4 @@ function Fibo(n){
         return Fibo(n-1) + Fibo(n-2)
     }
 }
-
 console.log(Fibo(6))
